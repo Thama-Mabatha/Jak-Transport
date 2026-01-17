@@ -135,7 +135,3 @@ SignalR
 GitHub  
 
 ---
-
-
-1. Navigate to `team6-api/JAK_API`
-2. Run:
