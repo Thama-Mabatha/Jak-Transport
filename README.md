@@ -65,9 +65,6 @@ This was built as a **university group project** to learn collaboration, real-wo
 
 Manager uses the same login system with role-based access.
 
-**Manager Details:**  
-**Email:** t.Majake@email.com  
-**Password:** Password  
 
 #### - Reports Dashboard
 ![Reports Dashboard](docs/Gifs/M01.gif)
